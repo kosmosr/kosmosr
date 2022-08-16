@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### I'm Kosmosr
 - 计算机专业，程序员，积极参与开源项目
-- 对未知事物感兴趣，正在学习Web3
+- 对新鲜事物感兴趣，正在学习Web3
 
 ### 🛠 技术栈 | Tech Stack
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
